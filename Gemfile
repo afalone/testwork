@@ -4,3 +4,9 @@ source "https://rubygems.org"
 
 gem 'sinatra'
 gem 'sinatra-contrib'
+
+gem 'thin'
+
+gem 'sucker_punch'
+
+gem 'racksh'
